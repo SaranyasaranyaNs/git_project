@@ -1,0 +1,3 @@
+java Compalination -> javac filename.java
+
+java run command -> java classname
